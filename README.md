@@ -1,11 +1,11 @@
 
 # Swag_Labs
-
-A comprehensive test automation project built with Selenium WebDriver, implementing the Page Object Model (POM) design pattern for better maintainability and scalability of test cases. The project automates testing on the [Swag Labs](https://www.saucedemo.com/) website, an online store for performance testing and training purposes.
+<img align="right"  width="250" height="155" src="https://logowik.com/content/uploads/images/saucelabs-new-20239027.logowik.com.webp" >A
+comprehensive test automation project built with Selenium WebDriver, implementing the Page Object Model (POM) design pattern for better maintainability and scalability of test cases. The project automates testing on the [Swag Labs](https://saucedemo.com) website, an online store for performance testing and training purposes.
 
 ## Introduction
 
-Swag_Labs is a robust test automation project developed to demonstrate the power and flexibility of Selenium WebDriver and the Page Object Model (POM) design pattern. This repository is dedicated to automating tests for the Swag Labs website, a mock e-commerce platform used primarily for testing purposes.
+Swag_Labs is a robust test automation project developed to demonstrate the power and flexibility of Selenium WebDriver and the Page Object Model (POM) design pattern. This repository automates tests for the Swag Labs website, a mock e-commerce platform used primarily for testing purposes.
 
 By using the POM design pattern, this project ensures that the test scripts remain clean, reusable, and easy to maintain, especially as the project grows. The POM approach makes it simple to modify page elements without affecting the test scripts, promoting separation of concerns and enhancing test scalability.
 
@@ -57,6 +57,24 @@ Swag_Labs/
    - This document provides instructions and information about the project, dependencies, and how to set up and run the tests.
 
 ---
+
+## 🌟Main Test Cases
+
++ The user can log in with a valid email and password<br>
++ The user can't log in with a locked Account<br>
++ The user can log out from his account successfully<br>
++ The user can add all products to the cart<br>
++ The user can add one product to the cart<br>
++ The user can remove one product from the cart<br>
++ Verify the functionality of adding all products to the cart and clearing the cart entirely<br>
++ Ensure the sorting option triggers a change in product arrangement<br>
++ Verify that the sorting option displays products in the correct order<br>
++ The user can go back to the product list page and continue adding products to the cart by clicking on the 'continue shopping' button<br>
++ The user can finish his order successfully<br>
++ The user can cancel his order from CheckoutPage<br>
++ The website displays the correct total price for all products<br>
+
+
 
 ## Setup and Execution
 
