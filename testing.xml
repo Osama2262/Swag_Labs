@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MyTestSuite">
+    <listeners>
+        <!-- Add Allure TestNG listener -->
+        <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+    </listeners>
+
+    <test name="MyTest">
+        <classes>
+            <class name="testcases.LoginTest" />
+            <class name="testcases.ProductListTest"/>
+            <class name="testcases.CartTest" />
+        </classes>
+    </test>
+</suite>
