@@ -44,7 +44,7 @@ public class TC003_CartTest extends BaseTest {
                 .CompletedMessageAssertion();
     }
     @Test(description = "Canceling order from CheckoutPage")
-    @Description("user can canceling his order from CheckoutPage")
+    @Description("user can cancel his order from CheckoutPage")
     public void userCanCancelOrderInCheckoutPage() throws InterruptedException {
         LoginPage loginPage =new LoginPage(driver);
         loginPage.load()
@@ -77,7 +77,7 @@ public class TC003_CartTest extends BaseTest {
 
     }
     @Test(description ="Functional continue shopping ")
-    @Description("user can go back to PLP and continue adding products to the cart by clicking on the 'continue shopping' button")
+    @Description("user can go back to the PLP and continue adding products to the cart by clicking on the 'continue shopping' button")
     public void userCanContinuesAddingProductFromCartPage() throws InterruptedException {
         LoginPage loginPage =new LoginPage(driver);
         loginPage.load().login(usersUtils.getValid_user(),usersUtils.get_pass())
