@@ -58,6 +58,24 @@ Swag_Labs/
 
 ---
 
+## 🌟Main Test Cases
+
++ The user can log in with a valid email and password<br>
++ The user can't log in with a locked Account<br>
++ The user can log out from his account successfully<br>
++ The user can add all products to the cart<br>
++ The user can add one product to the cart<br>
++ The user can remove one product from the cart<br>
++ Verify the functionality of adding all products to the cart and clearing the cart entirely<br>
++ Ensure the sorting option triggers a change in product arrangement<br>
++ Verify that the sorting option displays products in the correct order<br>
++ The user can go back to the product list page and continue adding products to the cart by clicking on the 'continue shopping' button<br>
++ The user can finish his order successfully<br>
++ The user can cancel his order from CheckoutPage<br>
++ The website displays the correct total price for all products<br>
+
+
+
 ## Setup and Execution
 
 To set up and execute the tests, follow these steps:
