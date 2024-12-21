@@ -8,9 +8,9 @@
 
     <test name="MyTest">
         <classes>
-            <class name="testcases.LoginTest" />
-            <class name="testcases.ProductListTest"/>
-            <class name="testcases.CartTest" />
+            <class name="testcases.TC001_LoginTest" />
+            <class name="testcases.TC002_ProductListTest"/>
+            <class name="testcases.TC002_CartTest" />
         </classes>
     </test>
 </suite>
