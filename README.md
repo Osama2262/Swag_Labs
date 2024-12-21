@@ -48,7 +48,7 @@ Swag_Labs/
 2. **src/test/java/tests/**:
    - Contains the **TestNG test scripts** that execute the actual test scenarios using the Page Object Model classes. These test scripts are organized into logical groups, such as login tests, product selection tests, and cart validation tests.
    
-   - **Example**: `LoginTest.java`, `ProductTest.java`, `CartTest.java`.
+   - **Example**: `TC001_LoginTest.java`, `TC002_ProductListTest.java`, `TC003_CartTest.java`.
 
 3. **pom.xml**:
    - The **Maven configuration file** that defines the dependencies required for the project, such as Selenium, TestNG, and other libraries. It also includes plugins for building and running the tests, managing versions, and packaging the project.
@@ -117,6 +117,3 @@ We welcome contributions to this project! If you'd like to contribute:
 - [TestNG Documentation](https://testng.org/doc/)
 - [Maven Documentation](https://maven.apache.org/guides/index.html)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
