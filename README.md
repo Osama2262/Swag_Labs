@@ -1,11 +1,11 @@
 
 # Swag_Labs
-
+<img align="right"  width="250" height="150" src="https://logowik.com/content/uploads/images/saucelabs-new-20239027.logowik.com.webp" >
 A comprehensive test automation project built with Selenium WebDriver, implementing the Page Object Model (POM) design pattern for better maintainability and scalability of test cases. The project automates testing on the [Swag Labs](https://www.saucedemo.com/) website, an online store for performance testing and training purposes.
 
 ## Introduction
 
-Swag_Labs is a robust test automation project developed to demonstrate the power and flexibility of Selenium WebDriver and the Page Object Model (POM) design pattern. This repository is dedicated to automating tests for the Swag Labs website, a mock e-commerce platform used primarily for testing purposes.
+Swag_Labs is a robust test automation project developed to demonstrate the power and flexibility of Selenium WebDriver and the Page Object Model (POM) design pattern. This repository automates tests for the Swag Labs website, a mock e-commerce platform used primarily for testing purposes.
 
 By using the POM design pattern, this project ensures that the test scripts remain clean, reusable, and easy to maintain, especially as the project grows. The POM approach makes it simple to modify page elements without affecting the test scripts, promoting separation of concerns and enhancing test scalability.
 
