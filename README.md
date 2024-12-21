@@ -1,7 +1,7 @@
 
 # Swag_Labs
-<img align="right"  width="250" height="150" src="https://logowik.com/content/uploads/images/saucelabs-new-20239027.logowik.com.webp" >
-A comprehensive test automation project built with Selenium WebDriver, implementing the Page Object Model (POM) design pattern for better maintainability and scalability of test cases. The project automates testing on the [Swag Labs](https://www.saucedemo.com/) website, an online store for performance testing and training purposes.
+<img align="right"  width="250" height="155" src="https://logowik.com/content/uploads/images/saucelabs-new-20239027.logowik.com.webp" >A
+comprehensive test automation project built with Selenium WebDriver, implementing the Page Object Model (POM) design pattern for better maintainability and scalability of test cases. The project automates testing on the [Swag Labs](https://saucedemo.com) website, an online store for performance testing and training purposes.
 
 ## Introduction
 
