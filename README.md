@@ -9,8 +9,6 @@ Swag_Labs is a robust test automation project developed to demonstrate the power
 
 By using the POM design pattern, this project ensures that the test scripts remain clean, reusable, and easy to maintain, especially as the project grows. The POM approach makes it simple to modify page elements without affecting the test scripts, promoting separation of concerns and enhancing test scalability.
 
-This project serves as a foundation for automating functional tests for login, product searches, and shopping cart operations, with the added flexibility to extend the tests for more complex scenarios.
-
 ## Prerequisites
 
 Before you can run this project, ensure you have the following installed:
