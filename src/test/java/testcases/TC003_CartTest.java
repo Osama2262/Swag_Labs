@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 
 @Feature("3- Cart Feature")
-public class TC002_CartTest extends BaseTest {
+public class TC003_CartTest extends BaseTest {
 
     @Test(description = "Remove product from cart")
     @Description("user can remove product from cart")
